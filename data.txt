@@ -1,0 +1,90 @@
+{
+ "merchantId": "1997544",
+ "matchScore": 1,
+ "merchantName": "STARBUCKS",
+ "city": "SAN FRANCISCO",
+ "stateCode": "CA",
+ "postalCode": "94103",
+ "mostRecentTransactionMonth": "2017-08",
+ "medianPriceBin": {
+   "categoryName": "Dining & Entertainment",
+   "currencyCode": "USD",
+   "priceBins": [
+     {
+       "binNumber": 1,
+       "lowerLimit": 0,
+       "upperLimit": 9.99
+     },
+     {
+       "binNumber": 2,
+       "lowerLimit": 10,
+       "upperLimit": 14.99
+     },
+     {
+       "binNumber": 3,
+       "lowerLimit": 15,
+       "upperLimit": 19.99
+     },
+     {
+       "binNumber": 4,
+       "lowerLimit": 20,
+       "upperLimit": 99.99
+     }
+   ],
+   "merchantMedianPriceBinNumber": 3
+ },
+ "openHours": [
+   {
+     "dayofWeek": "Monday",
+     "start": "11:00",
+     "end": "15:00"
+   },
+   {
+     "dayofWeek": "Monday",
+     "start": "19:00",
+     "end": "23:00"
+   },
+   {
+     "dayofWeek": "Tuesday",
+     "start": "11:30",
+     "end": "16:00"
+   },
+   {
+     "dayofWeek": "Tuesday",
+     "start": "18:00",
+     "end": "22:00"
+   }
+ ],
+ "popularHours": [
+   {
+     "dayofWeek": "Monday",
+     "startHour": "10:00",
+     "endHour": "11:00",
+     "popularity": 0.12
+   },
+   {
+     "dayofWeek": "Monday",
+     "startHour": "11:00",
+     "endHour": "12:00",
+     "popularity": 0.24
+   },
+   {
+     "dayofWeek": "Monday",
+     "startHour": "12:00",
+     "endHour": "13:00",
+     "popularity": 0.38
+   },
+   {
+     "dayofWeek": "Monday",
+     "startHour": "13:00",
+     "endHour": "14:00",
+     "popularity": 1.00
+   },
+   {
+     "dayofweek": "Monday",
+     "start": "14:00",
+     "endHour": "15:00",
+     "popularity": 0.60
+   }
+ ]
+}
